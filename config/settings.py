@@ -3,15 +3,13 @@ TEMPLATES_DIR = 'templates/'
 OUTPUT_HTML_DIR = 'reports/html/'
 OUTPUT_PDF_DIR = 'reports/pdf/'
 
-# PDFKit options
+# PDFKit options - optimized for speed
 PDFKIT_OPTIONS = {
     'page-size': 'A4',
-    'enable-local-file-access': '',  # Allows local file access (CSS, images)
     'encoding': 'UTF-8',
-    'no-outline': None,
-    'disable-javascript': '',  # You can disable this if you're not using JavaScript in HTML
-    'custom-header': [
-        ('Accept-Encoding', 'gzip')
-    ],
-    'debug-javascript': ''  # Optional, helps debug JavaScript issues
+    'no-outline': None,  # Disable outline for faster generation
+    'disable-javascript': None,  # Actually disable JS (empty string doesn't work!)
+    'quiet': None,  # Suppress output - significantly faster
+    'load-error-handling': 'ignore',  # Don't hang on missing resources
+    'load-media-error-handling': 'ignore',  # Don't hang on missing images
 }

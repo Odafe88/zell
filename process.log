@@ -44,3 +44,410 @@ ml
 Exit with code 1 due to network error: HostNotFoundError
 
 2025-10-31 14:30:52,996 - ERROR - Error generating PDF for report BEAMBS_HIGHGRADE_SERVICES: An error occurred while accessing files for PDF conversion: No such file: reports/html/BEAMBS_HIGHGRADE_SERVICES.html
+2025-12-11 11:11:02,941 - ERROR - Error generating PDF for report ULINK_GLOBAL_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 1. error:
+QPainter::begin(): Returned false
+Exit with code 1, due to unknown error.
+
+2025-12-11 11:11:02,943 - ERROR - Error generating PDF for report OTOMAB_AND_SONS_NIG_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/OTOMAB_AND_SONS_NIG_LTD.html
+2025-12-11 11:11:02,944 - ERROR - Error generating PDF for report BRAND_ALCHEMY_INTERACTIVE_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/BRAND_ALCHEMY_INTERACTIVE_LTD.html
+2025-12-11 11:11:02,944 - ERROR - Error generating PDF for report CREATIVE_YOUTHS_INITIATIVE: An error occurred while accessing files for PDF conversion: No such file: reports/html/CREATIVE_YOUTHS_INITIATIVE.html
+2025-12-11 11:11:02,945 - ERROR - Error generating PDF for report AGROHUTH_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/AGROHUTH_LTD.html
+2025-12-11 11:11:02,946 - ERROR - Error generating PDF for report DGM_VISTA_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/DGM_VISTA_LTD.html
+2025-12-11 11:11:02,947 - ERROR - Error generating PDF for report VASTREACH_GLOBAL_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/VASTREACH_GLOBAL_LIMITED.html
+2025-12-11 11:11:02,947 - ERROR - Error generating PDF for report AMITHRIFTSTORES_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/AMITHRIFTSTORES_LTD.html
+2025-12-11 11:11:02,949 - ERROR - Error generating PDF for report ESSENSE_INTERACTIVE_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/ESSENSE_INTERACTIVE_LTD.html
+2025-12-11 11:11:02,950 - ERROR - Error generating PDF for report BARAKAH_GREENFIELDS_FARMS_NIG_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/BARAKAH_GREENFIELDS_FARMS_NIG_LTD.html
+2025-12-11 11:11:02,951 - ERROR - Error generating PDF for report MEKSCHEF_KITCHENS_STORE: An error occurred while accessing files for PDF conversion: No such file: reports/html/MEKSCHEF_KITCHENS_STORE.html
+2025-12-11 11:11:02,959 - ERROR - Error generating PDF for report PANDC_PRODUCTIONS: An error occurred while accessing files for PDF conversion: No such file: reports/html/PANDC_PRODUCTIONS.html
+2025-12-11 11:11:02,961 - ERROR - Error generating PDF for report THE_JUST_BEADED_CO_ENTERPRISES: An error occurred while accessing files for PDF conversion: No such file: reports/html/THE_JUST_BEADED_CO_ENTERPRISES.html
+2025-12-11 11:11:02,963 - ERROR - Error generating PDF for report SKYVIEW_CONSTRUCTION_GLOBAL_SERVICES_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/SKYVIEW_CONSTRUCTION_GLOBAL_SERVICES_LTD.html
+2025-12-11 11:11:02,964 - ERROR - Error generating PDF for report EVERYTHINGMEP_INTEGRATED_SERVICES: An error occurred while accessing files for PDF conversion: No such file: reports/html/EVERYTHINGMEP_INTEGRATED_SERVICES.html
+2025-12-11 11:11:02,965 - ERROR - Error generating PDF for report SEAMLESS_MARKETING_SERVICES: An error occurred while accessing files for PDF conversion: No such file: reports/html/SEAMLESS_MARKETING_SERVICES.html
+2025-12-11 11:11:02,973 - ERROR - Error generating PDF for report R&R_AND_AUTO_PARTS_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/R&R_AND_AUTO_PARTS_LIMITED.html
+2025-12-11 11:11:02,976 - ERROR - Error generating PDF for report BIEBIE_WELLNESS_BEAUTY_STORE: An error occurred while accessing files for PDF conversion: No such file: reports/html/BIEBIE_WELLNESS_BEAUTY_STORE.html
+2025-12-11 11:11:02,980 - ERROR - Error generating PDF for report ROYAL_REST_MATTRESS: An error occurred while accessing files for PDF conversion: No such file: reports/html/ROYAL_REST_MATTRESS.html
+2025-12-11 11:11:02,984 - ERROR - Error generating PDF for report ADE_FAWEHINMI_COUTURE: An error occurred while accessing files for PDF conversion: No such file: reports/html/ADE_FAWEHINMI_COUTURE.html
+2025-12-11 11:11:02,986 - ERROR - Error generating PDF for report DRESSES_BY_GRACE_NG: An error occurred while accessing files for PDF conversion: No such file: reports/html/DRESSES_BY_GRACE_NG.html
+2025-12-11 11:11:02,987 - ERROR - Error generating PDF for report FELA_SUNDAY_COLLECTIONS_ENTERPRISE: An error occurred while accessing files for PDF conversion: No such file: reports/html/FELA_SUNDAY_COLLECTIONS_ENTERPRISE.html
+2025-12-11 11:11:02,988 - ERROR - Error generating PDF for report CRETOFIT_CONCEPT_VENTURES: An error occurred while accessing files for PDF conversion: No such file: reports/html/CRETOFIT_CONCEPT_VENTURES.html
+2025-12-11 11:11:02,990 - ERROR - Error generating PDF for report NAIJA_POT_ESSENCE_CATERING_&_EVENT_SERVICES: An error occurred while accessing files for PDF conversion: No such file: reports/html/NAIJA_POT_ESSENCE_CATERING_&_EVENT_SERVICES.html
+2025-12-11 11:11:02,992 - ERROR - Error generating PDF for report J_&_B_GLOBAL_PROJECTS: An error occurred while accessing files for PDF conversion: No such file: reports/html/J_&_B_GLOBAL_PROJECTS.html
+2025-12-11 11:11:02,998 - ERROR - Error generating PDF for report THREESIXTY_STYLE_ENTERPRISE: An error occurred while accessing files for PDF conversion: No such file: reports/html/THREESIXTY_STYLE_ENTERPRISE.html
+2025-12-11 11:11:02,999 - ERROR - Error generating PDF for report QUEENP_KITCHEN_ENTERPRISE: An error occurred while accessing files for PDF conversion: No such file: reports/html/QUEENP_KITCHEN_ENTERPRISE.html
+2025-12-11 11:11:03,000 - ERROR - Error generating PDF for report ZEESIGNATURE01_FASHION: An error occurred while accessing files for PDF conversion: No such file: reports/html/ZEESIGNATURE01_FASHION.html
+2025-12-11 11:11:03,001 - ERROR - Error generating PDF for report APEX_BUILD_AND_POWER_CONSULTS: An error occurred while accessing files for PDF conversion: No such file: reports/html/APEX_BUILD_AND_POWER_CONSULTS.html
+2025-12-11 11:11:03,002 - ERROR - Error generating PDF for report TREEPTRYBES_HOSPITALITY_SERVICES: An error occurred while accessing files for PDF conversion: No such file: reports/html/TREEPTRYBES_HOSPITALITY_SERVICES.html
+2025-12-11 11:11:03,004 - ERROR - Error generating PDF for report ANIKE_NAOMI_COKER_PARTNERSHIP: An error occurred while accessing files for PDF conversion: No such file: reports/html/ANIKE_NAOMI_COKER_PARTNERSHIP.html
+2025-12-11 11:11:03,005 - ERROR - Error generating PDF for report LOLA_S_LOBBY: An error occurred while accessing files for PDF conversion: No such file: reports/html/LOLA_S_LOBBY.html
+2025-12-11 11:11:03,006 - ERROR - Error generating PDF for report CDV_PROPERTIES_AND_DEVELOPMENT_ENTERPRISES: An error occurred while accessing files for PDF conversion: No such file: reports/html/CDV_PROPERTIES_AND_DEVELOPMENT_ENTERPRISES.html
+2025-12-11 11:11:03,009 - ERROR - Error generating PDF for report TORATHLETICS_APPAREL_COMPANY: An error occurred while accessing files for PDF conversion: No such file: reports/html/TORATHLETICS_APPAREL_COMPANY.html
+2025-12-11 11:11:03,011 - ERROR - Error generating PDF for report A.A_&_U.A.I_COMMUNICATIONS_SERVICES: An error occurred while accessing files for PDF conversion: No such file: reports/html/A.A_&_U.A.I_COMMUNICATIONS_SERVICES.html
+2025-12-11 11:11:03,012 - ERROR - Error generating PDF for report WANA_SAMBO_CLOTHING_COMPANY: An error occurred while accessing files for PDF conversion: No such file: reports/html/WANA_SAMBO_CLOTHING_COMPANY.html
+2025-12-11 11:11:03,013 - ERROR - Error generating PDF for report DAMALI_INTERIORS_AND_DESIGNS: An error occurred while accessing files for PDF conversion: No such file: reports/html/DAMALI_INTERIORS_AND_DESIGNS.html
+2025-12-11 11:11:03,016 - ERROR - Error generating PDF for report DANDOGO_FARMS: An error occurred while accessing files for PDF conversion: No such file: reports/html/DANDOGO_FARMS.html
+2025-12-11 11:11:03,026 - ERROR - Error generating PDF for report MANGROVE_FOODS: An error occurred while accessing files for PDF conversion: No such file: reports/html/MANGROVE_FOODS.html
+2025-12-11 11:11:03,028 - ERROR - Error generating PDF for report RUTHIE_CRAFTED_SIPSANDMORE_ENTERPRISE: An error occurred while accessing files for PDF conversion: No such file: reports/html/RUTHIE_CRAFTED_SIPSANDMORE_ENTERPRISE.html
+2025-12-11 11:11:03,030 - ERROR - Error generating PDF for report PRECISE_SCREEDING_&_PAINTING: An error occurred while accessing files for PDF conversion: No such file: reports/html/PRECISE_SCREEDING_&_PAINTING.html
+2025-12-11 11:11:03,033 - ERROR - Error generating PDF for report REXTERRA_CONSULTANCY: An error occurred while accessing files for PDF conversion: No such file: reports/html/REXTERRA_CONSULTANCY.html
+2025-12-11 11:11:03,035 - ERROR - Error generating PDF for report ONAH_CLOTHIERS: An error occurred while accessing files for PDF conversion: No such file: reports/html/ONAH_CLOTHIERS.html
+2025-12-11 11:11:03,037 - ERROR - Error generating PDF for report THE_FARAWAY_PEN_CONSULT: An error occurred while accessing files for PDF conversion: No such file: reports/html/THE_FARAWAY_PEN_CONSULT.html
+2025-12-11 11:11:03,038 - ERROR - Error generating PDF for report ALFRED_ALLI_CREATIVE_HUB: An error occurred while accessing files for PDF conversion: No such file: reports/html/ALFRED_ALLI_CREATIVE_HUB.html
+2025-12-11 11:11:03,041 - ERROR - Error generating PDF for report ROOTHE_KHARIS_&_PARTNERS: An error occurred while accessing files for PDF conversion: No such file: reports/html/ROOTHE_KHARIS_&_PARTNERS.html
+2025-12-11 11:11:03,046 - ERROR - Error generating PDF for report MP4NERDS_MEDIA: An error occurred while accessing files for PDF conversion: No such file: reports/html/MP4NERDS_MEDIA.html
+2025-12-11 11:11:03,048 - ERROR - Error generating PDF for report THE_GLOBALNOMAD_ENTERPRISES: An error occurred while accessing files for PDF conversion: No such file: reports/html/THE_GLOBALNOMAD_ENTERPRISES.html
+2025-12-11 11:11:03,049 - ERROR - Error generating PDF for report LUSTER_TOUCH_BARBER_S_SHOP: An error occurred while accessing files for PDF conversion: No such file: reports/html/LUSTER_TOUCH_BARBER_S_SHOP.html
+2025-12-11 11:11:03,051 - ERROR - Error generating PDF for report HIPO_HEKIMA_ENTERPRISES: An error occurred while accessing files for PDF conversion: No such file: reports/html/HIPO_HEKIMA_ENTERPRISES.html
+2025-12-11 11:11:03,052 - ERROR - Error generating PDF for report GETCOOL_SOLUTIONS: An error occurred while accessing files for PDF conversion: No such file: reports/html/GETCOOL_SOLUTIONS.html
+2025-12-11 11:11:03,059 - ERROR - Error generating PDF for report HARVEST_AND_SUNSHINE_VENTURES: An error occurred while accessing files for PDF conversion: No such file: reports/html/HARVEST_AND_SUNSHINE_VENTURES.html
+2025-12-11 11:11:03,061 - ERROR - Error generating PDF for report MCYOAL_&_PARTNERS: An error occurred while accessing files for PDF conversion: No such file: reports/html/MCYOAL_&_PARTNERS.html
+2025-12-11 11:11:03,063 - ERROR - Error generating PDF for report HEMPYRE_LUXURY_COLLECTIONS: An error occurred while accessing files for PDF conversion: No such file: reports/html/HEMPYRE_LUXURY_COLLECTIONS.html
+2025-12-11 11:11:03,065 - ERROR - Error generating PDF for report BE_YOU_FASHION: An error occurred while accessing files for PDF conversion: No such file: reports/html/BE_YOU_FASHION.html
+2025-12-11 11:11:03,066 - ERROR - Error generating PDF for report PURSUIT_RESOURCES: An error occurred while accessing files for PDF conversion: No such file: reports/html/PURSUIT_RESOURCES.html
+2025-12-11 11:11:03,068 - ERROR - Error generating PDF for report VERY_SPECIAL_VENTURES: An error occurred while accessing files for PDF conversion: No such file: reports/html/VERY_SPECIAL_VENTURES.html
+2025-12-11 11:11:03,071 - ERROR - Error generating PDF for report BAMCARE_CLEANING_SERVICE: An error occurred while accessing files for PDF conversion: No such file: reports/html/BAMCARE_CLEANING_SERVICE.html
+2025-12-11 11:11:03,079 - ERROR - Error generating PDF for report THE_LUEME_COLLECTIVE: An error occurred while accessing files for PDF conversion: No such file: reports/html/THE_LUEME_COLLECTIVE.html
+2025-12-11 11:11:03,081 - ERROR - Error generating PDF for report KINELBEAUTY_STORE: An error occurred while accessing files for PDF conversion: No such file: reports/html/KINELBEAUTY_STORE.html
+2025-12-11 11:11:03,083 - ERROR - Error generating PDF for report CLIPIFY_MEDIA: An error occurred while accessing files for PDF conversion: No such file: reports/html/CLIPIFY_MEDIA.html
+2025-12-11 11:11:03,084 - ERROR - Error generating PDF for report CRAYON_GADGETS_VENTURES: An error occurred while accessing files for PDF conversion: No such file: reports/html/CRAYON_GADGETS_VENTURES.html
+2025-12-11 11:11:03,085 - ERROR - Error generating PDF for report FOLA_HAIR_CARE_NATURALS: An error occurred while accessing files for PDF conversion: No such file: reports/html/FOLA_HAIR_CARE_NATURALS.html
+2025-12-11 11:11:03,088 - ERROR - Error generating PDF for report MATTY_RESALES_VENTURES: An error occurred while accessing files for PDF conversion: No such file: reports/html/MATTY_RESALES_VENTURES.html
+2025-12-11 11:11:03,095 - ERROR - Error generating PDF for report THE_GRAVITAS_GREY: An error occurred while accessing files for PDF conversion: No such file: reports/html/THE_GRAVITAS_GREY.html
+2025-12-11 11:11:03,097 - ERROR - Error generating PDF for report ABZ_TICEL: An error occurred while accessing files for PDF conversion: No such file: reports/html/ABZ_TICEL.html
+2025-12-11 11:11:03,098 - ERROR - Error generating PDF for report JN_PETER_NWABUEZE_ENTERPRISE: An error occurred while accessing files for PDF conversion: No such file: reports/html/JN_PETER_NWABUEZE_ENTERPRISE.html
+2025-12-11 11:11:03,099 - ERROR - Error generating PDF for report DEECAKEVIBE_22_NG_ENT: An error occurred while accessing files for PDF conversion: No such file: reports/html/DEECAKEVIBE_22_NG_ENT.html
+2025-12-11 11:11:03,100 - ERROR - Error generating PDF for report WASEWEB_TECHNOLOGIES: An error occurred while accessing files for PDF conversion: No such file: reports/html/WASEWEB_TECHNOLOGIES.html
+2025-12-11 11:11:03,103 - ERROR - Error generating PDF for report AVIK_INTEGRATED_SERVICES: An error occurred while accessing files for PDF conversion: No such file: reports/html/AVIK_INTEGRATED_SERVICES.html
+2025-12-11 11:11:03,105 - ERROR - Error generating PDF for report I.B._BEST_GLOBAL_ENTERPRISE: An error occurred while accessing files for PDF conversion: No such file: reports/html/I.B._BEST_GLOBAL_ENTERPRISE.html
+2025-12-11 11:11:03,111 - ERROR - Error generating PDF for report HYCIANTH_CEE_COMMUNICATION_ENTERPRISE: An error occurred while accessing files for PDF conversion: No such file: reports/html/HYCIANTH_CEE_COMMUNICATION_ENTERPRISE.html
+2025-12-11 11:11:03,112 - ERROR - Error generating PDF for report STONE_BABA_INDUSTRIAL_FABRICATOR: An error occurred while accessing files for PDF conversion: No such file: reports/html/STONE_BABA_INDUSTRIAL_FABRICATOR.html
+2025-12-11 11:11:03,114 - ERROR - Error generating PDF for report VENY_SUPERMARKET: An error occurred while accessing files for PDF conversion: No such file: reports/html/VENY_SUPERMARKET.html
+2025-12-11 11:11:03,116 - ERROR - Error generating PDF for report HOUSEOFSIMI_ENTERPRISE: An error occurred while accessing files for PDF conversion: No such file: reports/html/HOUSEOFSIMI_ENTERPRISE.html
+2025-12-11 11:11:03,117 - ERROR - Error generating PDF for report TIANAH_S_ZILLA_ENTERPRISES: An error occurred while accessing files for PDF conversion: No such file: reports/html/TIANAH_S_ZILLA_ENTERPRISES.html
+2025-12-11 11:11:03,118 - ERROR - Error generating PDF for report ALASKA_EQUIPMENT_CONCEPTS: An error occurred while accessing files for PDF conversion: No such file: reports/html/ALASKA_EQUIPMENT_CONCEPTS.html
+2025-12-11 11:11:03,120 - ERROR - Error generating PDF for report PAULSWELL_COLLECTIONS: An error occurred while accessing files for PDF conversion: No such file: reports/html/PAULSWELL_COLLECTIONS.html
+2025-12-11 11:11:03,122 - ERROR - Error generating PDF for report AHMED_YARO_REAL_ESTATE_ENTERPRISE: An error occurred while accessing files for PDF conversion: No such file: reports/html/AHMED_YARO_REAL_ESTATE_ENTERPRISE.html
+2025-12-11 11:11:03,127 - ERROR - Error generating PDF for report SVELT_PLACE_OF_BEAUTY_AND_FASHION_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/SVELT_PLACE_OF_BEAUTY_AND_FASHION_LTD.html
+2025-12-11 11:11:03,129 - ERROR - Error generating PDF for report OCHE_RENTALS_ENTERPRISES: An error occurred while accessing files for PDF conversion: No such file: reports/html/OCHE_RENTALS_ENTERPRISES.html
+2025-12-11 11:11:03,130 - ERROR - Error generating PDF for report INTERIOR_BY_ELLE_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/INTERIOR_BY_ELLE_LTD.html
+2025-12-11 11:11:03,131 - ERROR - Error generating PDF for report BLINCH_ESSENTIALS: An error occurred while accessing files for PDF conversion: No such file: reports/html/BLINCH_ESSENTIALS.html
+2025-12-11 11:11:03,131 - ERROR - Error generating PDF for report KRANE_LUXURY_FASHION: An error occurred while accessing files for PDF conversion: No such file: reports/html/KRANE_LUXURY_FASHION.html
+2025-12-11 11:11:03,132 - ERROR - Error generating PDF for report GENESIX_LOGISTICS_&_ENTERPRISES: An error occurred while accessing files for PDF conversion: No such file: reports/html/GENESIX_LOGISTICS_&_ENTERPRISES.html
+2025-12-11 11:11:03,134 - ERROR - Error generating PDF for report ROYAL_HERITAGE_PRIVATE_SECURITY_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/ROYAL_HERITAGE_PRIVATE_SECURITY_LIMITED.html
+2025-12-11 11:11:38,963 - ERROR - Error generating PDF for report FILCO_DRILLING_AND_COMPLETION_SERVICES_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 1. error:
+QPainter::begin(): Returned false
+Exit with code 1, due to unknown error.
+
+2025-12-11 11:11:38,964 - ERROR - Error generating PDF for report AFRICAN_FARMS_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/AFRICAN_FARMS_LTD.html
+2025-12-11 11:11:38,965 - ERROR - Error generating PDF for report DESPRO_CONCEPT_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/DESPRO_CONCEPT_LIMITED.html
+2025-12-11 11:11:38,966 - ERROR - Error generating PDF for report NEWTONIAN_CONSULTING_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/NEWTONIAN_CONSULTING_LIMITED.html
+2025-12-11 11:11:38,967 - ERROR - Error generating PDF for report KOAASOLUTIONS_NIG_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/KOAASOLUTIONS_NIG_LTD.html
+2025-12-11 11:11:38,968 - ERROR - Error generating PDF for report KLEVARLY_FINANCIALS_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/KLEVARLY_FINANCIALS_LIMITED.html
+2025-12-11 11:11:38,968 - ERROR - Error generating PDF for report AA_RASAM_PHARMACEUTICALS_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/AA_RASAM_PHARMACEUTICALS_LTD.html
+2025-12-11 11:11:38,970 - ERROR - Error generating PDF for report GREAT_SAMCHI_INTERNATIONAL_RESOURCES_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/GREAT_SAMCHI_INTERNATIONAL_RESOURCES_LTD.html
+2025-12-11 11:11:38,971 - ERROR - Error generating PDF for report PRIMCORE_GLOBAL_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/PRIMCORE_GLOBAL_LIMITED.html
+2025-12-11 11:11:38,972 - ERROR - Error generating PDF for report PURLINS_AND_RAFTERS_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/PURLINS_AND_RAFTERS_LTD.html
+2025-12-11 11:12:14,936 - ERROR - Error generating PDF for report STERLING_TECHNOLOGY_NIGERIA_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 1. error:
+QPainter::begin(): Returned false
+Exit with code 1, due to unknown error.
+
+2025-12-11 11:12:14,937 - ERROR - Error generating PDF for report COREX_SERVICES_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/COREX_SERVICES_LIMITED.html
+2025-12-11 11:12:14,938 - ERROR - Error generating PDF for report CROWNEL_HAIR_AND_BEAUTY_SERVICES_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/CROWNEL_HAIR_AND_BEAUTY_SERVICES_LTD.html
+2025-12-11 11:12:14,939 - ERROR - Error generating PDF for report NOXEL_LOGISTICS_NIG_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/NOXEL_LOGISTICS_NIG_LTD.html
+2025-12-11 11:12:14,940 - ERROR - Error generating PDF for report NDIDI_NGWULUKA_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/NDIDI_NGWULUKA_LIMITED.html
+2025-12-11 11:12:14,941 - ERROR - Error generating PDF for report OWOLOWO_MARKET_TRADERS_ASSOCIATION_LAGOS: An error occurred while accessing files for PDF conversion: No such file: reports/html/OWOLOWO_MARKET_TRADERS_ASSOCIATION_LAGOS.html
+2025-12-11 11:12:14,941 - ERROR - Error generating PDF for report FOTOSUT_TECH_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/FOTOSUT_TECH_LTD.html
+2025-12-11 11:12:14,943 - ERROR - Error generating PDF for report THE_QA_SCHOOL_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/THE_QA_SCHOOL_LIMITED.html
+2025-12-11 11:12:14,944 - ERROR - Error generating PDF for report FIBAS_GLOBAL_SOLUTIONS_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/FIBAS_GLOBAL_SOLUTIONS_LTD.html
+2025-12-11 11:12:14,945 - ERROR - Error generating PDF for report HAMARA_BEAUTY_WORLD_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/HAMARA_BEAUTY_WORLD_LTD.html
+2025-12-11 11:12:50,943 - ERROR - Error generating PDF for report CAVARIE_SERVICES_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 1. error:
+QPainter::begin(): Returned false
+Exit with code 1, due to unknown error.
+
+2025-12-11 11:12:50,945 - ERROR - Error generating PDF for report KIMBI_HAIR_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/KIMBI_HAIR_LTD.html
+2025-12-11 11:12:50,946 - ERROR - Error generating PDF for report STARBAY_PRODUCTION_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/STARBAY_PRODUCTION_LIMITED.html
+2025-12-11 11:12:50,946 - ERROR - Error generating PDF for report ANAPTUXE_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/ANAPTUXE_LIMITED.html
+2025-12-11 11:12:50,947 - ERROR - Error generating PDF for report FEWCHOREPAY_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/FEWCHOREPAY_LIMITED.html
+2025-12-11 11:12:50,948 - ERROR - Error generating PDF for report BUI_ENTERPRISES_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/BUI_ENTERPRISES_LTD.html
+2025-12-11 11:12:50,949 - ERROR - Error generating PDF for report FARMINTEL_TECHNOLOGY_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/FARMINTEL_TECHNOLOGY_LTD.html
+2025-12-11 11:12:50,950 - ERROR - Error generating PDF for report CREATIVE_MINDSHIFT: An error occurred while accessing files for PDF conversion: No such file: reports/html/CREATIVE_MINDSHIFT.html
+2025-12-11 11:12:50,952 - ERROR - Error generating PDF for report TREASURE_HAVEN_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/TREASURE_HAVEN_LIMITED.html
+2025-12-11 11:12:50,953 - ERROR - Error generating PDF for report KACHYSIGNATURE_INTL: An error occurred while accessing files for PDF conversion: No such file: reports/html/KACHYSIGNATURE_INTL.html
+2025-12-24 12:38:20,364 - ERROR - Error generating HTML for entry with ID 5: An error occurred while saving the HTML report to reports/html/SYNERGIA_CONSULTING_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/SYNERGIA_CONSULTING_LIMITED.html'
+2025-12-24 12:38:20,376 - ERROR - Error generating HTML for entry with ID 7: An error occurred while saving the HTML report to reports/html/CONNECTED_DIASPORA_YOUTH_CREATIVITY_FOUNDATION.html: [Errno 2] No such file or directory: 'reports/html/CONNECTED_DIASPORA_YOUTH_CREATIVITY_FOUNDATION.html'
+2025-12-24 12:38:20,380 - ERROR - Error generating HTML for entry with ID 2: An error occurred while saving the HTML report to reports/html/STRATFORD_COMMUNICATIONS_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/STRATFORD_COMMUNICATIONS_LIMITED.html'
+2025-12-24 12:38:20,380 - ERROR - Error generating HTML for entry with ID 3: An error occurred while saving the HTML report to reports/html/ANNE_&_5C_S_TECH_NIG_LTD.html: [Errno 2] No such file or directory: 'reports/html/ANNE_&_5C_S_TECH_NIG_LTD.html'
+2025-12-24 12:38:20,383 - ERROR - Error generating HTML for entry with ID 6: An error occurred while saving the HTML report to reports/html/NATIONAL_CREDIT_GUARANTEE_COMPANY_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/NATIONAL_CREDIT_GUARANTEE_COMPANY_LIMITED.html'
+2025-12-24 12:38:20,388 - ERROR - Error generating HTML for entry with ID 8: An error occurred while saving the HTML report to reports/html/QUADROHUB_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/QUADROHUB_LIMITED.html'
+2025-12-24 12:38:20,392 - ERROR - Error generating HTML for entry with ID 10: An error occurred while saving the HTML report to reports/html/EVAMOORE_SOLUTIONS_LTD.html: [Errno 2] No such file or directory: 'reports/html/EVAMOORE_SOLUTIONS_LTD.html'
+2025-12-24 12:38:20,395 - ERROR - Error generating HTML for entry with ID 4: An error occurred while saving the HTML report to reports/html/VIRTUAL_DATA_ANALYTICS_LTD.html: [Errno 2] No such file or directory: 'reports/html/VIRTUAL_DATA_ANALYTICS_LTD.html'
+2025-12-24 12:38:20,395 - ERROR - Error generating HTML for entry with ID 1: An error occurred while saving the HTML report to reports/html/NORTHFORT_ENGINEERING_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/NORTHFORT_ENGINEERING_LIMITED.html'
+2025-12-24 12:38:20,395 - ERROR - Error generating HTML for entry with ID 9: An error occurred while saving the HTML report to reports/html/CHAMPAGNE_CARDS_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/CHAMPAGNE_CARDS_LIMITED.html'
+2025-12-24 13:41:35,215 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 13:41:35,218 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 13:41:35,219 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 13:41:35,221 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 13:41:35,224 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 13:41:35,225 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 13:41:35,227 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 13:41:35,233 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 13:41:35,249 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 13:41:35,253 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 13:41:35,254 - ERROR - Error generating PDF for report MOM_TT_VENTURES: An error occurred while accessing files for PDF conversion: No such file: reports/html/MOM_TT_VENTURES.html
+2025-12-24 13:41:35,264 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 13:48:45,327 - ERROR - Error generating HTML for entry with ID 2: An error occurred while saving the HTML report to reports/html/STRATFORD_COMMUNICATIONS_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/STRATFORD_COMMUNICATIONS_LIMITED.html'
+2025-12-24 13:48:45,330 - ERROR - Error generating HTML for entry with ID 3: An error occurred while saving the HTML report to reports/html/ANNE_&_5C_S_TECH_NIG_LTD.html: [Errno 2] No such file or directory: 'reports/html/ANNE_&_5C_S_TECH_NIG_LTD.html'
+2025-12-24 13:48:45,332 - ERROR - Error generating HTML for entry with ID 4: An error occurred while saving the HTML report to reports/html/VIRTUAL_DATA_ANALYTICS_LTD.html: [Errno 2] No such file or directory: 'reports/html/VIRTUAL_DATA_ANALYTICS_LTD.html'
+2025-12-24 13:48:45,342 - ERROR - Error generating HTML for entry with ID 7: An error occurred while saving the HTML report to reports/html/CONNECTED_DIASPORA_YOUTH_CREATIVITY_FOUNDATION.html: [Errno 2] No such file or directory: 'reports/html/CONNECTED_DIASPORA_YOUTH_CREATIVITY_FOUNDATION.html'
+2025-12-24 13:48:45,343 - ERROR - Error generating HTML for entry with ID 10: An error occurred while saving the HTML report to reports/html/EVAMOORE_SOLUTIONS_LTD.html: [Errno 2] No such file or directory: 'reports/html/EVAMOORE_SOLUTIONS_LTD.html'
+2025-12-24 13:48:45,343 - ERROR - Error generating HTML for entry with ID 9: An error occurred while saving the HTML report to reports/html/CHAMPAGNE_CARDS_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/CHAMPAGNE_CARDS_LIMITED.html'
+2025-12-24 13:48:45,343 - ERROR - Error generating HTML for entry with ID 5: An error occurred while saving the HTML report to reports/html/SYNERGIA_CONSULTING_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/SYNERGIA_CONSULTING_LIMITED.html'
+2025-12-24 13:48:45,343 - ERROR - Error generating HTML for entry with ID 6: An error occurred while saving the HTML report to reports/html/NATIONAL_CREDIT_GUARANTEE_COMPANY_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/NATIONAL_CREDIT_GUARANTEE_COMPANY_LIMITED.html'
+2025-12-24 13:48:45,343 - ERROR - Error generating HTML for entry with ID 8: An error occurred while saving the HTML report to reports/html/QUADROHUB_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/QUADROHUB_LIMITED.html'
+2025-12-24 13:48:45,345 - ERROR - Error generating HTML for entry with ID 1: An error occurred while saving the HTML report to reports/html/NORTHFORT_ENGINEERING_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/NORTHFORT_ENGINEERING_LIMITED.html'
+2025-12-24 13:48:45,432 - ERROR - Error generating HTML for entry with ID 11: An error occurred while saving the HTML report to reports/html/PANAR_PACKAGING_LTD.html: [Errno 2] No such file or directory: 'reports/html/PANAR_PACKAGING_LTD.html'
+2025-12-24 13:48:45,541 - ERROR - Error generating HTML for entry with ID 16: An error occurred while saving the HTML report to reports/html/GREENSPRING_FARMLAND_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/GREENSPRING_FARMLAND_LIMITED.html'
+2025-12-24 13:48:45,549 - ERROR - Error generating HTML for entry with ID 14: An error occurred while saving the HTML report to reports/html/MESHDASTYLES_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/MESHDASTYLES_LIMITED.html'
+2025-12-24 13:48:45,563 - ERROR - Error generating HTML for entry with ID 12: An error occurred while saving the HTML report to reports/html/MARJOG_INTEGRATED_SOLUTIONS_LTD.html: [Errno 2] No such file or directory: 'reports/html/MARJOG_INTEGRATED_SOLUTIONS_LTD.html'
+2025-12-24 13:48:45,564 - ERROR - Error generating HTML for entry with ID 17: An error occurred while saving the HTML report to reports/html/FINIX_OIL_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/FINIX_OIL_LIMITED.html'
+2025-12-24 13:48:45,564 - ERROR - Error generating HTML for entry with ID 15: An error occurred while saving the HTML report to reports/html/TN_GLOBAL_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/TN_GLOBAL_LIMITED.html'
+2025-12-24 13:48:45,566 - ERROR - Error generating HTML for entry with ID 13: An error occurred while saving the HTML report to reports/html/THE_PEOPLE_HR_PRACTICE_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/THE_PEOPLE_HR_PRACTICE_LIMITED.html'
+2025-12-24 13:48:45,588 - ERROR - Error generating HTML for entry with ID 19: An error occurred while saving the HTML report to reports/html/NAREJJ_NIGERIA_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/NAREJJ_NIGERIA_LIMITED.html'
+2025-12-24 13:48:45,589 - ERROR - Error generating HTML for entry with ID 20: An error occurred while saving the HTML report to reports/html/THE_SWEET_BAKER_NG_LTD.html: [Errno 2] No such file or directory: 'reports/html/THE_SWEET_BAKER_NG_LTD.html'
+2025-12-24 13:48:45,607 - ERROR - Error generating HTML for entry with ID 18: An error occurred while saving the HTML report to reports/html/MUTUAL_AID_SPECIALIST_MICRO_INSURANCE_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/MUTUAL_AID_SPECIALIST_MICRO_INSURANCE_LIMITED.html'
+2025-12-24 13:48:45,647 - ERROR - Error generating HTML for entry with ID 21: An error occurred while saving the HTML report to reports/html/BSEEN_CONSULTANCY_LTD.html: [Errno 2] No such file or directory: 'reports/html/BSEEN_CONSULTANCY_LTD.html'
+2025-12-24 13:48:45,685 - ERROR - Error generating HTML for entry with ID 22: An error occurred while saving the HTML report to reports/html/COREHAUS_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/COREHAUS_LIMITED.html'
+2025-12-24 13:48:45,716 - ERROR - Error generating HTML for entry with ID 23: An error occurred while saving the HTML report to reports/html/WATTWISE_GLOBAL_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/WATTWISE_GLOBAL_LIMITED.html'
+2025-12-24 13:48:45,726 - ERROR - Error generating HTML for entry with ID 24: An error occurred while saving the HTML report to reports/html/KAINOS_INSIGHT_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/KAINOS_INSIGHT_LIMITED.html'
+2025-12-24 13:48:45,740 - ERROR - Error generating HTML for entry with ID 25: An error occurred while saving the HTML report to reports/html/ELITE_DYNASTY_EMPIRE_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/ELITE_DYNASTY_EMPIRE_LIMITED.html'
+2025-12-24 13:48:45,766 - ERROR - Error generating HTML for entry with ID 26: An error occurred while saving the HTML report to reports/html/VANTA_CONSULTING_LTD.html: [Errno 2] No such file or directory: 'reports/html/VANTA_CONSULTING_LTD.html'
+2025-12-24 13:48:45,805 - ERROR - Error generating HTML for entry with ID 27: An error occurred while saving the HTML report to reports/html/STIX_AND_CODES_ACADEMY_LTD.html: [Errno 2] No such file or directory: 'reports/html/STIX_AND_CODES_ACADEMY_LTD.html'
+2025-12-24 13:48:45,890 - ERROR - Error generating HTML for entry with ID 28: An error occurred while saving the HTML report to reports/html/WHITE_TREE_RETAIL_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/WHITE_TREE_RETAIL_LIMITED.html'
+2025-12-24 13:48:45,939 - ERROR - Error generating HTML for entry with ID 32: An error occurred while saving the HTML report to reports/html/TRANSPORTATION_SOLVES_PROFESSIONALS_LTD.html: [Errno 2] No such file or directory: 'reports/html/TRANSPORTATION_SOLVES_PROFESSIONALS_LTD.html'
+2025-12-24 13:48:45,950 - ERROR - Error generating HTML for entry with ID 30: An error occurred while saving the HTML report to reports/html/AMUMARA_ANGLICAN_PRAYER_MEETING_LAGOS.html: [Errno 2] No such file or directory: 'reports/html/AMUMARA_ANGLICAN_PRAYER_MEETING_LAGOS.html'
+2025-12-24 13:48:45,952 - ERROR - Error generating HTML for entry with ID 31: An error occurred while saving the HTML report to reports/html/DEMILLS_PROPERTIES_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/DEMILLS_PROPERTIES_LIMITED.html'
+2025-12-24 13:48:45,956 - ERROR - Error generating HTML for entry with ID 33: An error occurred while saving the HTML report to reports/html/LUCHADORA_COMPANY_LTD.html: [Errno 2] No such file or directory: 'reports/html/LUCHADORA_COMPANY_LTD.html'
+2025-12-24 13:48:45,975 - ERROR - Error generating HTML for entry with ID 29: An error occurred while saving the HTML report to reports/html/CLOUDCUB_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/CLOUDCUB_LIMITED.html'
+2025-12-24 13:48:46,024 - ERROR - Error generating HTML for entry with ID 34: An error occurred while saving the HTML report to reports/html/POSSIBLE_REALTY_HOMES_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/POSSIBLE_REALTY_HOMES_LIMITED.html'
+2025-12-24 13:48:46,044 - ERROR - Error generating HTML for entry with ID 38: An error occurred while saving the HTML report to reports/html/NUDGERS_CONSULTING_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/NUDGERS_CONSULTING_LIMITED.html'
+2025-12-24 13:48:46,045 - ERROR - Error generating HTML for entry with ID 35: An error occurred while saving the HTML report to reports/html/SAPOREATS_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/SAPOREATS_LIMITED.html'
+2025-12-24 13:48:46,070 - ERROR - Error generating HTML for entry with ID 37: An error occurred while saving the HTML report to reports/html/CLEARLINKS_INNOVATIONS_LTD.html: [Errno 2] No such file or directory: 'reports/html/CLEARLINKS_INNOVATIONS_LTD.html'
+2025-12-24 13:48:46,122 - ERROR - Error generating HTML for entry with ID 36: An error occurred while saving the HTML report to reports/html/ZABIRA_DIGITAL_SERVICES_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/ZABIRA_DIGITAL_SERVICES_LIMITED.html'
+2025-12-24 13:48:46,141 - ERROR - Error generating HTML for entry with ID 39: An error occurred while saving the HTML report to reports/html/PETRACORE_OIL_&_GAS_LTD.html: [Errno 2] No such file or directory: 'reports/html/PETRACORE_OIL_&_GAS_LTD.html'
+2025-12-24 13:48:46,170 - ERROR - Error generating HTML for entry with ID 41: An error occurred while saving the HTML report to reports/html/BRIDGE_ADVANCES_&_LOANS_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/BRIDGE_ADVANCES_&_LOANS_LIMITED.html'
+2025-12-24 13:48:46,176 - ERROR - Error generating HTML for entry with ID 44: An error occurred while saving the HTML report to reports/html/K99_CONSTRUCTION_AND_REALTORS_SERVICES_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/K99_CONSTRUCTION_AND_REALTORS_SERVICES_LIMITED.html'
+2025-12-24 13:48:46,184 - ERROR - Error generating HTML for entry with ID 43: An error occurred while saving the HTML report to reports/html/BANUSO_AGRO_ALLIED_FARMS_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/BANUSO_AGRO_ALLIED_FARMS_LIMITED.html'
+2025-12-24 13:48:46,212 - ERROR - Error generating HTML for entry with ID 40: An error occurred while saving the HTML report to reports/html/NAIRAXI_TRANSPORT_AND_LOGISTICS_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/NAIRAXI_TRANSPORT_AND_LOGISTICS_LIMITED.html'
+2025-12-24 13:48:46,221 - ERROR - Error generating HTML for entry with ID 45: An error occurred while saving the HTML report to reports/html/HAVIRA_GREEN_SOLUTIONS_LTD.html: [Errno 2] No such file or directory: 'reports/html/HAVIRA_GREEN_SOLUTIONS_LTD.html'
+2025-12-24 13:48:46,236 - ERROR - Error generating HTML for entry with ID 46: An error occurred while saving the HTML report to reports/html/BIZCLINIC_DIGITAL_CONSULTS_LTD.html: [Errno 2] No such file or directory: 'reports/html/BIZCLINIC_DIGITAL_CONSULTS_LTD.html'
+2025-12-24 13:48:46,260 - ERROR - Error generating HTML for entry with ID 42: An error occurred while saving the HTML report to reports/html/ROYALTY_SMARTLOCK_TECH_SOLUTIONS._NIG_LTD.html: [Errno 2] No such file or directory: 'reports/html/ROYALTY_SMARTLOCK_TECH_SOLUTIONS._NIG_LTD.html'
+2025-12-24 13:48:46,295 - ERROR - Error generating HTML for entry with ID 48: An error occurred while saving the HTML report to reports/html/CLEALTH_PHOTOGRAPHY_LTD.html: [Errno 2] No such file or directory: 'reports/html/CLEALTH_PHOTOGRAPHY_LTD.html'
+2025-12-24 13:48:46,317 - ERROR - Error generating HTML for entry with ID 47: An error occurred while saving the HTML report to reports/html/GUARANTEE_LEGACY_INTERNATIONAL_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/GUARANTEE_LEGACY_INTERNATIONAL_LIMITED.html'
+2025-12-24 13:48:46,344 - ERROR - Error generating HTML for entry with ID 49: An error occurred while saving the HTML report to reports/html/VISIONS_OF_LOVE_EMPOWERMENT_FOUNDATION.html: [Errno 2] No such file or directory: 'reports/html/VISIONS_OF_LOVE_EMPOWERMENT_FOUNDATION.html'
+2025-12-24 13:48:46,345 - ERROR - Error generating HTML for entry with ID 50: An error occurred while saving the HTML report to reports/html/HILLFOOT_INTEGRATED_SERVICES_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/HILLFOOT_INTEGRATED_SERVICES_LIMITED.html'
+2025-12-24 13:48:46,399 - ERROR - Error generating HTML for entry with ID 52: An error occurred while saving the HTML report to reports/html/EDGEVIEW_COMPUTERS_LTD.html: [Errno 2] No such file or directory: 'reports/html/EDGEVIEW_COMPUTERS_LTD.html'
+2025-12-24 13:48:46,403 - ERROR - Error generating HTML for entry with ID 51: An error occurred while saving the HTML report to reports/html/SAMSCOLEXY_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/SAMSCOLEXY_LIMITED.html'
+2025-12-24 13:48:46,456 - ERROR - Error generating HTML for entry with ID 54: An error occurred while saving the HTML report to reports/html/HRPG_DEVELOPMENT_LTD.html: [Errno 2] No such file or directory: 'reports/html/HRPG_DEVELOPMENT_LTD.html'
+2025-12-24 13:48:46,470 - ERROR - Error generating HTML for entry with ID 53: An error occurred while saving the HTML report to reports/html/TINYRIG_ENERGY_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/TINYRIG_ENERGY_LIMITED.html'
+2025-12-24 13:48:46,507 - ERROR - Error generating HTML for entry with ID 55: An error occurred while saving the HTML report to reports/html/PREMIUM_BRAIDER_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/PREMIUM_BRAIDER_LIMITED.html'
+2025-12-24 13:48:46,510 - ERROR - Error generating HTML for entry with ID 57: An error occurred while saving the HTML report to reports/html/MIST_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/MIST_LIMITED.html'
+2025-12-24 13:48:46,527 - ERROR - Error generating HTML for entry with ID 58: An error occurred while saving the HTML report to reports/html/VAZI_LABS_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/VAZI_LABS_LIMITED.html'
+2025-12-24 13:48:46,547 - ERROR - Error generating HTML for entry with ID 56: An error occurred while saving the HTML report to reports/html/TC_EXPRESS_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/TC_EXPRESS_LIMITED.html'
+2025-12-24 13:48:46,565 - ERROR - Error generating HTML for entry with ID 59: An error occurred while saving the HTML report to reports/html/COBBLESTONE_CONSULTING_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/COBBLESTONE_CONSULTING_LIMITED.html'
+2025-12-24 13:48:46,622 - ERROR - Error generating HTML for entry with ID 61: An error occurred while saving the HTML report to reports/html/SHIRLEYSFASHIONHOUSE_LTD.html: [Errno 2] No such file or directory: 'reports/html/SHIRLEYSFASHIONHOUSE_LTD.html'
+2025-12-24 13:48:46,628 - ERROR - Error generating HTML for entry with ID 62: An error occurred while saving the HTML report to reports/html/AY_INVESTMENT_AND_ASSETS_MANAGEMENT_LTD.html: [Errno 2] No such file or directory: 'reports/html/AY_INVESTMENT_AND_ASSETS_MANAGEMENT_LTD.html'
+2025-12-24 13:48:46,631 - ERROR - Error generating HTML for entry with ID 60: An error occurred while saving the HTML report to reports/html/MILLENNIUM_WOMEN_FOR_IMPACT_AND_TRANSFORMATION_FOUNDATION.html: [Errno 2] No such file or directory: 'reports/html/MILLENNIUM_WOMEN_FOR_IMPACT_AND_TRANSFORMATION_FOUNDATION.html'
+2025-12-24 13:48:46,682 - ERROR - Error generating HTML for entry with ID 65: An error occurred while saving the HTML report to reports/html/AFA_GLOBAL_ENTERPRISES_LTD.html: [Errno 2] No such file or directory: 'reports/html/AFA_GLOBAL_ENTERPRISES_LTD.html'
+2025-12-24 13:48:46,685 - ERROR - Error generating HTML for entry with ID 64: An error occurred while saving the HTML report to reports/html/O_BEA_CONSTRUCTIONS_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/O_BEA_CONSTRUCTIONS_LIMITED.html'
+2025-12-24 13:48:46,704 - ERROR - Error generating HTML for entry with ID 63: An error occurred while saving the HTML report to reports/html/DUELTEX_NETWORK_LTD.html: [Errno 2] No such file or directory: 'reports/html/DUELTEX_NETWORK_LTD.html'
+2025-12-24 13:48:46,708 - ERROR - Error generating HTML for entry with ID 67: An error occurred while saving the HTML report to reports/html/LGFRS_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/LGFRS_LIMITED.html'
+2025-12-24 13:48:46,713 - ERROR - Error generating HTML for entry with ID 66: An error occurred while saving the HTML report to reports/html/THE_BABY_STUDIO_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/THE_BABY_STUDIO_LIMITED.html'
+2025-12-24 13:48:46,738 - ERROR - Error generating HTML for entry with ID 68: An error occurred while saving the HTML report to reports/html/MORIRE_TECHNICAL_SERVICE_LTD.html: [Errno 2] No such file or directory: 'reports/html/MORIRE_TECHNICAL_SERVICE_LTD.html'
+2025-12-24 13:48:46,752 - ERROR - Error generating HTML for entry with ID 69: An error occurred while saving the HTML report to reports/html/SONGHAI_ASSETS_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/SONGHAI_ASSETS_LIMITED.html'
+2025-12-24 13:48:46,786 - ERROR - Error generating HTML for entry with ID 71: An error occurred while saving the HTML report to reports/html/O_ROYAL_TOUCH_LAUNDROMAT_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/O_ROYAL_TOUCH_LAUNDROMAT_LIMITED.html'
+2025-12-24 13:48:46,786 - ERROR - Error generating HTML for entry with ID 70: An error occurred while saving the HTML report to reports/html/ZENKLEUS_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/ZENKLEUS_LIMITED.html'
+2025-12-24 13:48:46,803 - ERROR - Error generating HTML for entry with ID 73: An error occurred while saving the HTML report to reports/html/MULAEX_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/MULAEX_LIMITED.html'
+2025-12-24 13:48:46,825 - ERROR - Error generating HTML for entry with ID 72: An error occurred while saving the HTML report to reports/html/BOKARAY_GLOBAL_NIGERIA_LIMITED.html: [Errno 2] No such file or directory: 'reports/html/BOKARAY_GLOBAL_NIGERIA_LIMITED.html'
+2025-12-24 13:48:46,845 - ERROR - Error generating HTML for entry with ID 74: An error occurred while saving the HTML report to reports/html/LABELLE_BEVERAGE_ENTERPRISE.html: [Errno 2] No such file or directory: 'reports/html/LABELLE_BEVERAGE_ENTERPRISE.html'
+2025-12-24 13:48:46,874 - ERROR - Error generating HTML for entry with ID 78: An error occurred while saving the HTML report to reports/html/DAINTY_LUXÉ_LIFESTYLE_CO.html: [Errno 2] No such file or directory: 'reports/html/DAINTY_LUXÉ_LIFESTYLE_CO.html'
+2025-12-24 13:48:46,899 - ERROR - Error generating HTML for entry with ID 77: An error occurred while saving the HTML report to reports/html/RIKAZBEAUTY.html: [Errno 2] No such file or directory: 'reports/html/RIKAZBEAUTY.html'
+2025-12-24 13:48:46,912 - ERROR - Error generating HTML for entry with ID 83: An error occurred while saving the HTML report to reports/html/report.html: [Errno 2] No such file or directory: 'reports/html/report.html'
+2025-12-24 13:48:46,943 - ERROR - Error generating HTML for entry with ID 75: An error occurred while saving the HTML report to reports/html/YOUNG_PECI_CONCEPTS.html: [Errno 2] No such file or directory: 'reports/html/YOUNG_PECI_CONCEPTS.html'
+2025-12-24 13:48:46,946 - ERROR - Error generating HTML for entry with ID 80: An error occurred while saving the HTML report to reports/html/MOM_TT_VENTURES.html: [Errno 2] No such file or directory: 'reports/html/MOM_TT_VENTURES.html'
+2025-12-24 13:48:46,947 - ERROR - Error generating HTML for entry with ID 81: An error occurred while saving the HTML report to reports/html/report.html: [Errno 2] No such file or directory: 'reports/html/report.html'
+2025-12-24 13:48:46,949 - ERROR - Error generating HTML for entry with ID 82: An error occurred while saving the HTML report to reports/html/report.html: [Errno 2] No such file or directory: 'reports/html/report.html'
+2025-12-24 13:48:46,949 - ERROR - Error generating HTML for entry with ID 76: An error occurred while saving the HTML report to reports/html/OLASCO_AUTO_ENGINEER_SERVICES.html: [Errno 2] No such file or directory: 'reports/html/OLASCO_AUTO_ENGINEER_SERVICES.html'
+2025-12-24 13:48:46,962 - ERROR - Error generating HTML for entry with ID 79: An error occurred while saving the HTML report to reports/html/VICKY_S_DREAMY_DESSERTS_VENTURES.html: [Errno 2] No such file or directory: 'reports/html/VICKY_S_DREAMY_DESSERTS_VENTURES.html'
+2025-12-24 13:48:46,991 - ERROR - Error generating HTML for entry with ID 85: An error occurred while saving the HTML report to reports/html/report.html: [Errno 2] No such file or directory: 'reports/html/report.html'
+2025-12-24 13:48:46,993 - ERROR - Error generating HTML for entry with ID 84: An error occurred while saving the HTML report to reports/html/report.html: [Errno 2] No such file or directory: 'reports/html/report.html'
+2025-12-24 13:48:47,006 - ERROR - Error generating HTML for entry with ID 86: An error occurred while saving the HTML report to reports/html/report.html: [Errno 2] No such file or directory: 'reports/html/report.html'
+2025-12-24 13:48:47,049 - ERROR - Error generating HTML for entry with ID 87: An error occurred while saving the HTML report to reports/html/report.html: [Errno 2] No such file or directory: 'reports/html/report.html'
+2025-12-24 13:48:47,056 - ERROR - Error generating HTML for entry with ID 91: An error occurred while saving the HTML report to reports/html/report.html: [Errno 2] No such file or directory: 'reports/html/report.html'
+2025-12-24 13:48:47,060 - ERROR - Error generating HTML for entry with ID 90: An error occurred while saving the HTML report to reports/html/report.html: [Errno 2] No such file or directory: 'reports/html/report.html'
+2025-12-24 13:48:47,069 - ERROR - Error generating HTML for entry with ID 89: An error occurred while saving the HTML report to reports/html/report.html: [Errno 2] No such file or directory: 'reports/html/report.html'
+2025-12-24 13:48:47,071 - ERROR - Error generating HTML for entry with ID 88: An error occurred while saving the HTML report to reports/html/report.html: [Errno 2] No such file or directory: 'reports/html/report.html'
+2025-12-24 13:48:47,101 - ERROR - Error generating HTML for entry with ID 92: An error occurred while saving the HTML report to reports/html/report.html: [Errno 2] No such file or directory: 'reports/html/report.html'
+2025-12-24 13:48:47,118 - ERROR - Error generating HTML for entry with ID 93: An error occurred while saving the HTML report to reports/html/report.html: [Errno 2] No such file or directory: 'reports/html/report.html'
+2025-12-24 13:48:47,149 - ERROR - Error generating HTML for entry with ID 94: An error occurred while saving the HTML report to reports/html/report.html: [Errno 2] No such file or directory: 'reports/html/report.html'
+2025-12-24 13:48:47,151 - ERROR - Error generating HTML for entry with ID 96: An error occurred while saving the HTML report to reports/html/report.html: [Errno 2] No such file or directory: 'reports/html/report.html'
+2025-12-24 13:48:47,163 - ERROR - Error generating HTML for entry with ID 95: An error occurred while saving the HTML report to reports/html/report.html: [Errno 2] No such file or directory: 'reports/html/report.html'
+2025-12-24 13:48:47,166 - ERROR - Error generating HTML for entry with ID 97: An error occurred while saving the HTML report to reports/html/report.html: [Errno 2] No such file or directory: 'reports/html/report.html'
+2025-12-24 13:48:47,169 - ERROR - Error generating HTML for entry with ID 98: An error occurred while saving the HTML report to reports/html/report.html: [Errno 2] No such file or directory: 'reports/html/report.html'
+2025-12-24 13:48:47,200 - ERROR - Error generating HTML for entry with ID 99: An error occurred while saving the HTML report to reports/html/report.html: [Errno 2] No such file or directory: 'reports/html/report.html'
+2025-12-24 13:48:47,202 - ERROR - Error generating HTML for entry with ID 100: An error occurred while saving the HTML report to reports/html/report.html: [Errno 2] No such file or directory: 'reports/html/report.html'
+2025-12-24 14:00:52,356 - ERROR - Error generating PDF for report QUADROHUB_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/QUADROHUB_LIMITED.html
+2025-12-24 14:00:52,358 - ERROR - Error generating PDF for report VIRTUAL_DATA_ANALYTICS_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/VIRTUAL_DATA_ANALYTICS_LTD.html
+2025-12-24 14:00:52,361 - ERROR - Error generating PDF for report NATIONAL_CREDIT_GUARANTEE_COMPANY_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/NATIONAL_CREDIT_GUARANTEE_COMPANY_LIMITED.html
+2025-12-24 14:00:52,363 - ERROR - Error generating PDF for report CLOUDCUB_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/CLOUDCUB_LIMITED.html
+2025-12-24 14:00:52,366 - ERROR - Error generating PDF for report WHITE_TREE_RETAIL_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/WHITE_TREE_RETAIL_LIMITED.html
+2025-12-24 14:00:52,372 - ERROR - Error generating PDF for report NAREJJ_NIGERIA_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/NAREJJ_NIGERIA_LIMITED.html
+2025-12-24 14:00:52,378 - ERROR - Error generating PDF for report LUCHADORA_COMPANY_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/LUCHADORA_COMPANY_LTD.html
+2025-12-24 14:00:52,379 - ERROR - Error generating PDF for report TRANSPORTATION_SOLVES_PROFESSIONALS_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/TRANSPORTATION_SOLVES_PROFESSIONALS_LTD.html
+2025-12-24 14:00:52,381 - ERROR - Error generating PDF for report POSSIBLE_REALTY_HOMES_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/POSSIBLE_REALTY_HOMES_LIMITED.html
+2025-12-24 14:00:52,395 - ERROR - Error generating PDF for report ZABIRA_DIGITAL_SERVICES_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/ZABIRA_DIGITAL_SERVICES_LIMITED.html
+2025-12-24 14:00:52,397 - ERROR - Error generating PDF for report PETRACORE_OIL_&_GAS_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/PETRACORE_OIL_&_GAS_LTD.html
+2025-12-24 14:00:52,399 - ERROR - Error generating PDF for report CLEARLINKS_INNOVATIONS_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/CLEARLINKS_INNOVATIONS_LTD.html
+2025-12-24 14:00:52,413 - ERROR - Error generating PDF for report SAPOREATS_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/SAPOREATS_LIMITED.html
+2025-12-24 14:00:52,416 - ERROR - Error generating PDF for report NAIRAXI_TRANSPORT_AND_LOGISTICS_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/NAIRAXI_TRANSPORT_AND_LOGISTICS_LIMITED.html
+2025-12-24 14:00:52,418 - ERROR - Error generating PDF for report NUDGERS_CONSULTING_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/NUDGERS_CONSULTING_LIMITED.html
+2025-12-24 14:00:52,420 - ERROR - Error generating PDF for report ROYALTY_SMARTLOCK_TECH_SOLUTIONS._NIG_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/ROYALTY_SMARTLOCK_TECH_SOLUTIONS._NIG_LTD.html
+2025-12-24 14:00:52,423 - ERROR - Error generating PDF for report K99_CONSTRUCTION_AND_REALTORS_SERVICES_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/K99_CONSTRUCTION_AND_REALTORS_SERVICES_LIMITED.html
+2025-12-24 14:00:52,426 - ERROR - Error generating PDF for report HAVIRA_GREEN_SOLUTIONS_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/HAVIRA_GREEN_SOLUTIONS_LTD.html
+2025-12-24 14:00:52,428 - ERROR - Error generating PDF for report BIZCLINIC_DIGITAL_CONSULTS_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/BIZCLINIC_DIGITAL_CONSULTS_LTD.html
+2025-12-24 14:00:52,430 - ERROR - Error generating PDF for report GUARANTEE_LEGACY_INTERNATIONAL_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/GUARANTEE_LEGACY_INTERNATIONAL_LIMITED.html
+2025-12-24 14:00:52,434 - ERROR - Error generating PDF for report BRIDGE_ADVANCES_&_LOANS_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/BRIDGE_ADVANCES_&_LOANS_LIMITED.html
+2025-12-24 14:00:52,439 - ERROR - Error generating PDF for report CLEALTH_PHOTOGRAPHY_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/CLEALTH_PHOTOGRAPHY_LTD.html
+2025-12-24 14:00:52,440 - ERROR - Error generating PDF for report HILLFOOT_INTEGRATED_SERVICES_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/HILLFOOT_INTEGRATED_SERVICES_LIMITED.html
+2025-12-24 14:00:52,442 - ERROR - Error generating PDF for report BANUSO_AGRO_ALLIED_FARMS_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/BANUSO_AGRO_ALLIED_FARMS_LIMITED.html
+2025-12-24 14:00:52,446 - ERROR - Error generating PDF for report TINYRIG_ENERGY_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/TINYRIG_ENERGY_LIMITED.html
+2025-12-24 14:00:52,450 - ERROR - Error generating PDF for report SAMSCOLEXY_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/SAMSCOLEXY_LIMITED.html
+2025-12-24 14:00:52,454 - ERROR - Error generating PDF for report TC_EXPRESS_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/TC_EXPRESS_LIMITED.html
+2025-12-24 14:00:52,457 - ERROR - Error generating PDF for report PREMIUM_BRAIDER_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/PREMIUM_BRAIDER_LIMITED.html
+2025-12-24 14:00:52,460 - ERROR - Error generating PDF for report HRPG_DEVELOPMENT_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/HRPG_DEVELOPMENT_LTD.html
+2025-12-24 14:00:52,462 - ERROR - Error generating PDF for report EDGEVIEW_COMPUTERS_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/EDGEVIEW_COMPUTERS_LTD.html
+2025-12-24 14:00:52,463 - ERROR - Error generating PDF for report SHIRLEYSFASHIONHOUSE_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/SHIRLEYSFASHIONHOUSE_LTD.html
+2025-12-24 14:00:52,466 - ERROR - Error generating PDF for report VAZI_LABS_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/VAZI_LABS_LIMITED.html
+2025-12-24 14:00:52,467 - ERROR - Error generating PDF for report COBBLESTONE_CONSULTING_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/COBBLESTONE_CONSULTING_LIMITED.html
+2025-12-24 14:00:52,469 - ERROR - Error generating PDF for report VISIONS_OF_LOVE_EMPOWERMENT_FOUNDATION: An error occurred while accessing files for PDF conversion: No such file: reports/html/VISIONS_OF_LOVE_EMPOWERMENT_FOUNDATION.html
+2025-12-24 14:00:52,473 - ERROR - Error generating PDF for report O_BEA_CONSTRUCTIONS_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/O_BEA_CONSTRUCTIONS_LIMITED.html
+2025-12-24 14:00:52,479 - ERROR - Error generating PDF for report AY_INVESTMENT_AND_ASSETS_MANAGEMENT_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/AY_INVESTMENT_AND_ASSETS_MANAGEMENT_LTD.html
+2025-12-24 14:00:52,481 - ERROR - Error generating PDF for report MIST_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/MIST_LIMITED.html
+2025-12-24 14:00:52,483 - ERROR - Error generating PDF for report MILLENNIUM_WOMEN_FOR_IMPACT_AND_TRANSFORMATION_FOUNDATION: An error occurred while accessing files for PDF conversion: No such file: reports/html/MILLENNIUM_WOMEN_FOR_IMPACT_AND_TRANSFORMATION_FOUNDATION.html
+2025-12-24 14:00:52,488 - ERROR - Error generating PDF for report AFA_GLOBAL_ENTERPRISES_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/AFA_GLOBAL_ENTERPRISES_LTD.html
+2025-12-24 14:00:52,490 - ERROR - Error generating PDF for report MORIRE_TECHNICAL_SERVICE_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/MORIRE_TECHNICAL_SERVICE_LTD.html
+2025-12-24 14:00:52,493 - ERROR - Error generating PDF for report THE_BABY_STUDIO_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/THE_BABY_STUDIO_LIMITED.html
+2025-12-24 14:00:52,496 - ERROR - Error generating PDF for report DUELTEX_NETWORK_LTD: An error occurred while accessing files for PDF conversion: No such file: reports/html/DUELTEX_NETWORK_LTD.html
+2025-12-24 14:00:52,497 - ERROR - Error generating PDF for report ZENKLEUS_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/ZENKLEUS_LIMITED.html
+2025-12-24 14:00:52,499 - ERROR - Error generating PDF for report SONGHAI_ASSETS_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/SONGHAI_ASSETS_LIMITED.html
+2025-12-24 14:00:52,502 - ERROR - Error generating PDF for report MULAEX_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/MULAEX_LIMITED.html
+2025-12-24 14:00:52,504 - ERROR - Error generating PDF for report YOUNG_PECI_CONCEPTS: An error occurred while accessing files for PDF conversion: No such file: reports/html/YOUNG_PECI_CONCEPTS.html
+2025-12-24 14:00:52,506 - ERROR - Error generating PDF for report O_ROYAL_TOUCH_LAUNDROMAT_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/O_ROYAL_TOUCH_LAUNDROMAT_LIMITED.html
+2025-12-24 14:00:52,509 - ERROR - Error generating PDF for report RIKAZBEAUTY: An error occurred while accessing files for PDF conversion: No such file: reports/html/RIKAZBEAUTY.html
+2025-12-24 14:00:52,511 - ERROR - Error generating PDF for report BOKARAY_GLOBAL_NIGERIA_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/BOKARAY_GLOBAL_NIGERIA_LIMITED.html
+2025-12-24 14:00:52,512 - ERROR - Error generating PDF for report OLASCO_AUTO_ENGINEER_SERVICES: An error occurred while accessing files for PDF conversion: No such file: reports/html/OLASCO_AUTO_ENGINEER_SERVICES.html
+2025-12-24 14:00:52,514 - ERROR - Error generating PDF for report LGFRS_LIMITED: An error occurred while accessing files for PDF conversion: No such file: reports/html/LGFRS_LIMITED.html
+2025-12-24 14:00:52,516 - ERROR - Error generating PDF for report VICKY_S_DREAMY_DESSERTS_VENTURES: An error occurred while accessing files for PDF conversion: No such file: reports/html/VICKY_S_DREAMY_DESSERTS_VENTURES.html
+2025-12-24 14:00:52,521 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 14:00:52,524 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 14:00:52,528 - ERROR - Error generating PDF for report DAINTY_LUXÉ_LIFESTYLE_CO: An error occurred while accessing files for PDF conversion: No such file: reports/html/DAINTY_LUXÉ_LIFESTYLE_CO.html
+2025-12-24 14:00:52,530 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 14:00:52,532 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 14:00:52,539 - ERROR - Error generating PDF for report LABELLE_BEVERAGE_ENTERPRISE: An error occurred while accessing files for PDF conversion: No such file: reports/html/LABELLE_BEVERAGE_ENTERPRISE.html
+2025-12-24 14:00:52,542 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 14:00:52,544 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 14:00:52,545 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 14:00:52,547 - ERROR - Error generating PDF for report MOM_TT_VENTURES: An error occurred while accessing files for PDF conversion: No such file: reports/html/MOM_TT_VENTURES.html
+2025-12-24 14:00:52,548 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 14:00:52,556 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 14:00:52,559 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 14:00:52,567 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 14:00:52,573 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 14:00:52,575 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 14:00:52,577 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 14:00:52,579 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 14:00:52,586 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 14:00:52,597 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 14:00:52,635 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 14:00:52,642 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 14:00:52,644 - ERROR - Error generating PDF for report report: An error occurred while accessing files for PDF conversion: No such file: reports/html/report.html
+2025-12-24 14:08:24,590 - ERROR - Error generating PDF for report WHITE_TREE_RETAIL_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 14:09:33,818 - ERROR - Error generating PDF for report BIZCLINIC_DIGITAL_CONSULTS_LTD: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 14:09:33,839 - ERROR - Error generating PDF for report HAVIRA_GREEN_SOLUTIONS_LTD: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 14:09:33,840 - ERROR - Error generating PDF for report GUARANTEE_LEGACY_INTERNATIONAL_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 14:09:33,839 - ERROR - Error generating PDF for report MILLENNIUM_WOMEN_FOR_IMPACT_AND_TRANSFORMATION_FOUNDATION: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 14:09:33,882 - ERROR - Error generating PDF for report DEMILLS_PROPERTIES_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 14:09:33,904 - ERROR - Error generating PDF for report SAPOREATS_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 14:12:30,036 - ERROR - Error generating PDF for report AMUMARA_ANGLICAN_PRAYER_MEETING_LAGOS: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 14:12:30,069 - ERROR - Error generating PDF for report THE_SWEET_BAKER_NG_LTD: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 14:12:30,122 - ERROR - Error generating PDF for report MESHDASTYLES_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 14:12:30,136 - ERROR - Error generating PDF for report NAREJJ_NIGERIA_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 14:28:14,097 - ERROR - Error generating PDF for report NATIONAL_CREDIT_GUARANTEE_COMPANY_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 14:28:14,119 - ERROR - Error generating PDF for report VIRTUAL_DATA_ANALYTICS_LTD: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 14:28:14,120 - ERROR - Error generating PDF for report EVAMOORE_SOLUTIONS_LTD: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 14:28:14,126 - ERROR - Error generating PDF for report NORTHFORT_ENGINEERING_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 14:28:14,129 - ERROR - Error generating PDF for report SYNERGIA_CONSULTING_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 14:28:14,130 - ERROR - Error generating PDF for report CONNECTED_DIASPORA_YOUTH_CREATIVITY_FOUNDATION: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 14:28:14,131 - ERROR - Error generating PDF for report STRATFORD_COMMUNICATIONS_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 14:28:14,147 - ERROR - Error generating PDF for report ANNE_&_5C_S_TECH_NIG_LTD: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 14:28:21,281 - ERROR - Error generating PDF for report THE_SWEET_BAKER_NG_LTD: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 14:28:21,296 - ERROR - Error generating PDF for report FINIX_OIL_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 14:28:21,318 - ERROR - Error generating PDF for report MESHDASTYLES_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 14:30:12,156 - ERROR - Error generating PDF for report CHAMPAGNE_CARDS_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 14:30:12,212 - ERROR - Error generating PDF for report SYNERGIA_CONSULTING_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 14:50:25,763 - ERROR - Error generating PDF for report HILLFOOT_INTEGRATED_SERVICES_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 14:50:25,818 - ERROR - Error generating PDF for report SAPOREATS_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 14:50:25,821 - ERROR - Error generating PDF for report HAVIRA_GREEN_SOLUTIONS_LTD: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 15:32:58,029 - ERROR - Error generating PDF for report BIZCLINIC_DIGITAL_CONSULTS_LTD: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 15:42:09,037 - ERROR - Error generating PDF for report POSSIBLE_REALTY_HOMES_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 15:53:07,716 - ERROR - Error generating PDF for report COREHAUS_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 15:53:07,725 - ERROR - Error generating PDF for report ELITE_DYNASTY_EMPIRE_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 15:53:07,762 - ERROR - Error generating PDF for report STRATFORD_COMMUNICATIONS_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 15:53:07,773 - ERROR - Error generating PDF for report QUADROHUB_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 16:33:08,312 - ERROR - Error generating PDF for report BRIDGE_ADVANCES_&_LOANS_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 16:33:08,327 - ERROR - Error generating PDF for report SAMSCOLEXY_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 16:39:09,405 - ERROR - Error generating PDF for report WATTWISE_GLOBAL_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 16:39:09,412 - ERROR - Error generating PDF for report CONNECTED_DIASPORA_YOUTH_CREATIVITY_FOUNDATION: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 16:48:15,891 - ERROR - Error generating PDF for report MUTUAL_AID_SPECIALIST_MICRO_INSURANCE_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 16:51:36,445 - ERROR - Error generating PDF for report MIST_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 16:51:36,465 - ERROR - Error generating PDF for report HILLFOOT_INTEGRATED_SERVICES_LIMITED: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
+2025-12-24 16:51:36,483 - ERROR - Error generating PDF for report CLEARLINKS_INNOVATIONS_LTD: An error occurred while accessing files for PDF conversion: wkhtmltopdf exited with non-zero code 3221225786. error:
+Unknown Error
